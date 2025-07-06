@@ -1,7 +1,5 @@
-HEAD
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "framework": "vite"
-2ec2020 (fix: move project files to root)
 }
